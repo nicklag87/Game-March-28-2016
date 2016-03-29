@@ -420,6 +420,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Game March 28 2016/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "lagerstedt.Game-March-28-2016";
@@ -431,6 +432,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Game March 28 2016/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "lagerstedt.Game-March-28-2016";
@@ -505,6 +507,7 @@
 				40D5990A1CA9DFE60075BCE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		40D5990B1CA9DFE60075BCE2 /* Build configuration list for PBXNativeTarget "Game March 28 2016Tests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +516,7 @@
 				40D5990D1CA9DFE60075BCE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		40D5990E1CA9DFE60075BCE2 /* Build configuration list for PBXNativeTarget "Game March 28 2016UITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +525,7 @@
 				40D599101CA9DFE60075BCE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
